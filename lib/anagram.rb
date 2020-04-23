@@ -11,6 +11,8 @@ class Anagram
   def match(array)
     #array = array.each do |word|
     #word.split(",").sort == word
+    array = self.new
+    array.match(%w(enlists google inlets banana))
       
 end
 end
