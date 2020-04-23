@@ -12,3 +12,5 @@ class Anagram
     array = array.each do |word|
       %w(word)
 end
+end
+end
