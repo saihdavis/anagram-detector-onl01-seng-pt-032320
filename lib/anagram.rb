@@ -12,7 +12,7 @@ class Anagram
     #array = array.each do |word|
     #word.split(",").sort == word
     array = self.new
-    array.match(%w(enlists google inlets banana))
+    array.match(%w(word))
       
 end
 end
