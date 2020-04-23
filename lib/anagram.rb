@@ -10,5 +10,5 @@ class Anagram
   
   def match(array)
     array = array.each do |word|
-      
+      %w(word)
 end
